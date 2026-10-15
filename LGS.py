@@ -5,7 +5,7 @@ def organize_inputs(inpt):
 
 
 # the 3 equations
-print("Geben Sie die Gleichungen in der Form a,b,c|d ein, wobei a,b,c die Koeffizienten der Variablen und d die Konstante ist.")
+print("Geben Sie die Gleichungen in der Form a,b,c|d ein.")
 gleichung1 = input("Erste Gleichung: ")
 I = organize_inputs(gleichung1)
 I_copy = I
